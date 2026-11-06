@@ -1,0 +1,9 @@
+itemGroup.foreststalker=Forest Stalker
+
+item.foreststalker.stalker_blade.name=Tree Blade
+item.foreststalker.stalker_blade.tooltip=A shard of the old forest, still hungry.
+item.foreststalker.stalker_blade.tooltip2=Right-click to hurl a tree (5 hearts of damage)
+
+item.foreststalker.stalker_egg.name=Forest Stalker Spawn Egg
+
+entity.stalker.name=Forest Stalker

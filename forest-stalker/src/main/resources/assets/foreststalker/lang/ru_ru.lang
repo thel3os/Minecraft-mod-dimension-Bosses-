@@ -1,0 +1,9 @@
+itemGroup.foreststalker=Лесной страж
+
+item.foreststalker.stalker_blade.name=Древесный меч
+item.foreststalker.stalker_blade.tooltip=Осколок древнего леса, который всё ещё голоден.
+item.foreststalker.stalker_blade.tooltip2=ПКМ — метнуть дерево (5 сердец урона)
+
+item.foreststalker.stalker_egg.name=Яйцо призыва лесного стража
+
+entity.stalker.name=Лесной страж
